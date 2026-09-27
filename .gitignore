@@ -1,0 +1,9 @@
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
